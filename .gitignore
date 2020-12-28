@@ -1,7 +1,15 @@
-node_modules/
-build_webpack/
+/node_modules
+/build
 .DS_Store
-build/
 yarn-error.log
 .env*
-.idea/
+.eslintcache
+/.idea
+dist
+electron-builder.yml
+/.yalc
+yalc.lock
+# testing
+/coverage/
+src/types/contracts/
+tsconfig.tsbuildinfo

@@ -1,10 +1,10 @@
-# Gnosis Team Safe
+# Gnosis Safe Multisig
 
-The most secure way to manage your crypto funds collectively
+The most trusted platform to store digital assets on Ethereum
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. 
 
 ### Prerequisites
 
@@ -101,12 +101,16 @@ Give an example
 
 Add additional notes about how to deploy this on a live system
 
+## Configuring the app for running on different networks
+
+[Please check the network configuration documentation](./docs/networks.md)
+
 ## Built With
 
 * [Truffle React Box](https://github.com/truffle-box/react-box) - The web framework used
 * [Ganache](https://github.com/trufflesuite/ganache-cli) - Fast Ethereum RPC client
 * [React](https://reactjs.org/) - A JS library for building user interfaces
-* [Material UI 1.X](https://material-ui-next.com/) - React components that implement Google's Material Design
+* [Material UI 4.X](https://material-ui.com/) - React components that implement Google's Material Design
 * [redux, immutable, reselect, final-form](https://redux.js.org/) - React ecosystem libraries
 * [Flow](https://flow.org/) - Static Type Checker
 
